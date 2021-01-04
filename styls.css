@@ -1,3 +1,39 @@
 .love{
     color:red;
 }
+.font{
+    font-family: 'Caveat', cursive;
+font-family: 'Fjalla One', sans-serif
+}
+.div1{
+    width:40%;
+    float:left;
+    margin:2%;
+    padding:2%;
+}
+.div1 img{
+    width:100%;
+}
+.mimi{
+ background-image:("Hasib/image/image6.png");
+}
+
+.song{
+    text-decoration: none;
+    background-color: peru;
+    border-radius: 5%;
+    margin:2px 4px;
+    padding:5px;
+    color:white;
+}
+.secound{
+    width:40%;
+    float:left;
+    margin: 2% 2%;
+    padding: 2%;;
+    font-family: 'Caveat', cursive;
+font-family: 'Fjalla One', sans-serif
+}
+.secound img{
+    width:100%;
+}
